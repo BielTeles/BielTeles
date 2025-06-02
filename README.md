@@ -5,17 +5,17 @@
 
 - 🔭 I’m currently working on **Pamonha Clicker** and **ElariaSheet** in my spare time
 
-- 🌱 I’m currently learning **Unity, C#**
+- 🌱 I’m currently learning **Typescript, React & Node**
 
-- 🤝 I’m looking for help with **Unity**
+- 🤝 I’m looking for help with **TypeScript**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python/C**
 
 - 📫 How to reach me **devteles@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/gabriel-teles-8881a3202/](https://www.linkedin.com/in/gabriel-teles-8881a3202/)
 
-- ⚡ Fun fact **I'm a RPG Master on my free time**
+- ⚡ Fun fact **I'm a RPG Master on my free time and a Software Enginner Student at UFG (Federal University of Goiás)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
