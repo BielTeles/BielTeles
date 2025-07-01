@@ -6,7 +6,6 @@ Sou um desenvolvedor frontend apaixonado por tecnologia e estudante de Engenhari
 - 🔠 Atualmente trabalhando em **Pamonha Clicker** e **ElariaSheet** nas horas vagas
 - 🌱 Estudando **TypeScript**, **React** e **Node**
 - 🤝 Buscando ajuda com **TypeScript**
-- 📝 Pergunte-me sobre **Python** ou **C**
 - 💌 Contato: **devteles@gmail.com**
 - 📚 [Meu LinkedIn](https://www.linkedin.com/in/gabriel-teles-8881a3202/)
 - ✨ Curiosidade: sou mestre de RPG nas horas livres
