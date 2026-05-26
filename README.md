@@ -1,6 +1,6 @@
 ## Gabriel Teles
 
-Desenvolvedor generalista, de Goiás. Divido meu tempo entre três coisas: sites para clientes em **Next.js/React**, aplicativos de automação e gestão em **Python**, e jogos em **Unity**. Gosto de pegar um problema real e levar até virar algo que roda de verdade.
+Desenvolvedor generalista, de Goiás. Divido meu tempo entre três coisas: sites para clientes em **Next.js/React**, aplicativos de automação e gestão em **Python**, e jogos em **Unity**. Gosto de pegar um problema real e levar até virar algo que roda de verdade — boa parte do que sei veio de projeto entregue, não de tutorial.
 
 🌐 Sites &nbsp;·&nbsp; 🐍 Apps &nbsp;·&nbsp; 🎮 Jogos
 
@@ -31,21 +31,10 @@ Desenvolvedor generalista, de Goiás. Divido meu tempo entre três coisas: sites
 | --- | --- |
 | **AppContabil** *(privado)* | App desktop que automatiza o download em lote das notas fiscais (XML) no portal do SEFAZ-GO, voltado a escritórios de contabilidade. Python, PyWebView, Playwright e SQLite. É o que mais tomo tempo hoje. |
 | **[Ecxus Stock App](https://github.com/BielTeles/ecxus-stock-app)** | Gestão de estoque para componentes eletrônicos: BOM, ordens de produção, cálculo de custo e relatórios. React + TypeScript + Supabase. |
-| **[Elaria — Fichas de RPG](https://github.com/BielTeles/ElariaReactSheet)** | Sistema de fichas de personagem com login Google e dados na nuvem. React, TypeScript, Tailwind e Supabase — [demo ao vivo](https://elaria-react-sheet.vercel.app/). |
-| **Site Julia Chagas** *(cliente)* | Landing page de uma psicóloga: Next.js 15, Tailwind v4 e integração com WhatsApp. |
-| **[rpg-portfolio](https://github.com/BielTeles/rpg-portfolio)** | Portfólio com tema de RPG, feito em Next.js e Framer Motion. |
+| **[Elaria — Fichas de RPG](https://github.com/BielTeles/ElariaReactSheet)** | Sistema de fichas de personagem com login Google e dados na nuvem. React, TypeScript, Tailwind e Supabase — [demo ao vivo](https://elaria-sheet.vercel.app/). |
+| **[Site Julia Chagas](https://juliachagaspsico.com.br/)** *(cliente)* | Landing page de uma psicóloga, no ar em produção. Next.js 15, Tailwind v4 e integração com WhatsApp. |
+| **[rpg-portfolio](https://bielteles.github.io/rpg-portfolio)** | Portfólio com tema de RPG, feito em Next.js e Framer Motion — [ver online](https://bielteles.github.io/rpg-portfolio). |
 | **Pamonha Clicker** *(em desenvolvimento)* | Jogo idle/clicker em Unity (C#), com protótipos paralelos em Godot e Rust. |
-
----
-
-### GitHub
-
-<a href="https://github.com/BielTeles">
-  <img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=BielTeles&show_icons=true&include_all_commits=true&hide_border=true&card_width=420" alt="Estatísticas do GitHub" />
-</a>
-<a href="https://github.com/BielTeles">
-  <img height="165" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BielTeles&layout=compact&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
-</a>
 
 ---
 
