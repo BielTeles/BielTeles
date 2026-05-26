@@ -1,30 +1,57 @@
-# Olá, eu sou o Gabriel Teles 👋
+## Gabriel Teles
 
-Sou um desenvolvedor frontend apaixonado por tecnologia e estudante de Engenharia de Software na UFG (Universidade Federal de Goiás).
+Desenvolvedor generalista, de Goiás. Divido meu tempo entre três coisas: sites para clientes em **Next.js/React**, aplicativos de automação e gestão em **Python**, e jogos em **Unity**. Gosto de pegar um problema real e levar até virar algo que roda de verdade — boa parte do que sei veio de projeto entregue, não de tutorial.
 
-## Sobre mim
-- 🔠 Atualmente trabalhando em **Pamonha Clicker** e **ElariaSheet** nas horas vagas
-- 🌱 Estudando **TypeScript**, **React** e **Node**
-- 🤝 Buscando ajuda com **TypeScript**
-- 💌 Contato: **devteles@gmail.com**
-- 📚 [Meu LinkedIn](https://www.linkedin.com/in/gabriel-teles-8881a3202/)
-- ✨ Curiosidade: sou mestre de RPG nas horas livres
+🌐 Sites &nbsp;·&nbsp; 🐍 Apps &nbsp;·&nbsp; 🎮 Jogos
 
-## Conecte-se comigo
-<p align="left">
-  <a href="https://linkedin.com/in/gabriel-teles-8881a3202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-teles-8881a3202" height="30" width="40" /></a>
-  <a href="https://instagram.com/telesbiel_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="telesbiel_" height="30" width="40" /></a>
-</p>
+---
 
-## Linguagens e Ferramentas
-<p align="left">
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
-</p>
+### Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat)
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### Alguns projetos
+
+| Projeto | O que é |
+| --- | --- |
+| **AppContabil** *(privado)* | App desktop que automatiza o download em lote das notas fiscais (XML) no portal do SEFAZ-GO, voltado a escritórios de contabilidade. Python, PyWebView, Playwright e SQLite. É o que mais tomo tempo hoje. |
+| **[Ecxus Stock App](https://github.com/BielTeles/ecxus-stock-app)** | Gestão de estoque para componentes eletrônicos: BOM, ordens de produção, cálculo de custo e relatórios. React + TypeScript + Supabase. |
+| **[Elaria — Fichas de RPG](https://github.com/BielTeles/ElariaReactSheet)** | Sistema de fichas de personagem com login Google e dados na nuvem. React, TypeScript, Tailwind e Supabase — [demo ao vivo](https://elaria-react-sheet.vercel.app/). |
+| **Site Julia Chagas** *(cliente)* | Landing page de uma psicóloga: Next.js 15, Tailwind v4 e integração com WhatsApp. |
+| **[rpg-portfolio](https://github.com/BielTeles/rpg-portfolio)** | Portfólio com tema de RPG, feito em Next.js e Framer Motion. |
+| **Pamonha Clicker** *(em desenvolvimento)* | Jogo idle/clicker em Unity (C#), com protótipos paralelos em Godot e Rust. |
+
+---
+
+### GitHub
+
+<a href="https://github.com/BielTeles">
+  <img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=BielTeles&show_icons=true&include_all_commits=true&hide_border=true&card_width=420" alt="Estatísticas do GitHub" />
+</a>
+<a href="https://github.com/BielTeles">
+  <img height="165" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BielTeles&layout=compact&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
+</a>
+
+---
+
+### Contato
+
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:devteles@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieltelesrosa/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/telesbiel_)
+[![Portfólio](https://img.shields.io/badge/Portfólio-00C7B7?style=flat&logo=netlify&logoColor=white)](https://gabrielteles-portfolio.netlify.app/)
