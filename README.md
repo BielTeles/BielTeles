@@ -1,6 +1,6 @@
 ## Gabriel Teles
 
-Desenvolvedor generalista, de Goiás. Divido meu tempo entre três coisas: sites para clientes em **Next.js/React**, aplicativos de automação e gestão em **Python**, e jogos em **Unity**. Gosto de pegar um problema real e levar até virar algo que roda de verdade — boa parte do que sei veio de projeto entregue, não de tutorial.
+Desenvolvedor generalista, de Goiás. Divido meu tempo entre três coisas: sites para clientes em **Next.js/React**, aplicativos de automação e gestão em **Python**, e jogos em **Unity**. Gosto de pegar um problema real e levar até virar algo que roda de verdade.
 
 🌐 Sites &nbsp;·&nbsp; 🐍 Apps &nbsp;·&nbsp; 🎮 Jogos
 
