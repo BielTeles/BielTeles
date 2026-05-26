@@ -4,7 +4,7 @@
   <b>Software Engineer</b> &nbsp;·&nbsp; AI Researcher @ <a href="https://akcit.ufg.br/">AKCIT</a> &nbsp;·&nbsp; Autonomous Software Development
 </p>
 
-<p align="center">🤖 Applied AI &nbsp;·&nbsp; 🎮 Games &nbsp;·&nbsp; ⚙️ Software that ships</p>
+<p align="center"> Applied AI &nbsp;·&nbsp;  Games &nbsp;·&nbsp;  Software that ships</p>
 
 ---
 
